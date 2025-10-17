@@ -1,3 +1,4 @@
+//Castaño Daniela y Cortes Samantha
 <?php
 	$alumnos = ["AGUILAR",
 				"AVIÑA",
@@ -44,4 +45,5 @@
 		<input type="submit">
 	</form>
 </body>
+
 </html>
