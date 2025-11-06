@@ -13,6 +13,8 @@ if (count($datos) == 1) {
     $_SESSION['usuario'] = $usuario;
     header("Location: principal.php");
 } else {
-    echo "Usuario o contraseña incorrectos";
+    echo 'Usuario o contraseña incorrectos.<br><a href="loggin.php">Intentar de nuevo</a>';
 }
+}
+
 ?>
